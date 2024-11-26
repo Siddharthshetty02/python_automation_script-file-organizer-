@@ -1,0 +1,5 @@
+file-organizer/
+├── organizer.py    # Main script
+├── README.md       # Project description and instructions
+├── config.json     # Configuration file for file type mappings
+└── organized_files/ # Output directory for sorted files
