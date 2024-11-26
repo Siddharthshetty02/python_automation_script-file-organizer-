@@ -1,0 +1,11 @@
+Install Python 3.x: Ensure Python is installed on your system.
+Download or Clone: Download the project folder or clone it using
+git clone https://github.com/yourusername/file-organizer.git
+
+To navigate to directory:
+ bash : cd file-organizer
+
+Run the script:
+bash : python organizer.py
+
+  
