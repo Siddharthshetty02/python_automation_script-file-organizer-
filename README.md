@@ -20,3 +20,11 @@ A Python script to organize files in a directory into categorized folders based 
 
 ## Example
 ### Before:
+
+
+
+Enhancements:
+
+GUI Support: Use libraries like Tkinter for a graphical interface.
+Logging: Add a logging mechanism to track actions.
+Dry Run Mode: Preview actions without making changes
