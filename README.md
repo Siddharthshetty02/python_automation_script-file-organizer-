@@ -18,12 +18,8 @@ A Python script to organize files in a directory into categorized folders based 
 ## Configuration
 - Edit `config.json` to customize categories and file extensions.
 
-## Example
-### Before:
 
-
-
-Enhancements:
+## Enhancements:
 
 GUI Support: Use libraries like Tkinter for a graphical interface.
 Logging: Add a logging mechanism to track actions.
