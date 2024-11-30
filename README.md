@@ -28,3 +28,6 @@ Enhancements:
 GUI Support: Use libraries like Tkinter for a graphical interface.
 Logging: Add a logging mechanism to track actions.
 Dry Run Mode: Preview actions without making changes
+
+## SIDDHARTH RAGHUNATHA SHETTY
+Developer and Maintainer
